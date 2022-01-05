@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    box-sizing: border-box;
+    width: 100vw;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(17, 9, 59);
+    color: white;
+}
+
+.header{
+    text-align: center;
+}
